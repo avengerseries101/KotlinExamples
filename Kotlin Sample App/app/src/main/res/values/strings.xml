@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kotlin Sample App</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+</resources>
