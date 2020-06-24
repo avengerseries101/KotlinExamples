@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Collection Example</string>
+    <string name="add_your_favourite_fruit_to_the_list">Add your Favourite fruit to the list!!</string>
+    <string name="enter_friut_name">Enter Friut Name</string>
+    <string name="add_fruit">Add Fruit</string>
+    <string name="list">List</string>
+</resources>
