@@ -1,0 +1,2 @@
+rootProject.name='Class and InheritanceExample'
+include ':app'
